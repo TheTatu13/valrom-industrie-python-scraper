@@ -14,7 +14,7 @@
 
 ## Current Job Listings (9)
 
-_Generated: 2026-09-19T23:06:14.262479+00:00_
+_Generated: 2026-09-19T23:10:22.606987+00:00_
 
 ### Reprezentant Vanzari Valcea, Dolj, Gorj
 
