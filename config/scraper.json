@@ -1,0 +1,26 @@
+{
+  "userAgent": "job_seeker_ro_spider",
+  "requestTimeoutSec": 10,
+  "pageDelaySec": 1.0,
+  "retry": {
+    "maxAttempts": 5,
+    "baseDelaySec": 2.0,
+    "maxDelaySec": 60.0,
+    "retryStatus": [429, 500, 502, 503, 504]
+  },
+  "staleJobDeletion": false,
+  "manageCompany": true,
+  "defaultLocation": ["București"],
+  "defaultWorkmode": "on-site",
+  "ownJobUrlPrefix": "https://www.valrom.ro/joburi/",
+  "sources": {
+    "sitemap": "https://www.valrom.ro/joburi-sitemap.xml",
+    "listing": "https://www.valrom.ro/cariere/",
+    "jobArchive": "https://www.valrom.ro/joburi/"
+  },
+  "selectors": {
+    "jobArticle": [".job-left", "[class*='job']", ".vacancy, .position, .listing-item"],
+    "jobTitle": [".fusion-title-heading", "h1, h2, h3, h4", "[itemprop='title'], [aria-label]", "a"],
+    "jobMeta": [".meta_job", "p, .meta, [class*='deadline']"]
+  }
+}

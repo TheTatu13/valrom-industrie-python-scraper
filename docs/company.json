@@ -1,0 +1,17 @@
+{
+  "id": "8529679",
+  "company": "VALROM INDUSTRIE SRL",
+  "brand": "Valrom",
+  "status": "activ",
+  "location": [
+    "București"
+  ],
+  "website": [
+    "https://www.valrom.ro"
+  ],
+  "career": [
+    "https://www.valrom.ro/cariere/"
+  ],
+  "scraperFile": "https://github.com/TheTatu13/valrom-industrie-python-scraper/actions/workflows/scrape.yml",
+  "ownJobUrlPrefix": "https://www.valrom.ro/joburi/"
+}

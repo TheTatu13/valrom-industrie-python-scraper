@@ -1,0 +1,67 @@
+{
+  "validatedAt": "2026-09-19T23:06:12.026425+00:00",
+  "source": "ANAF",
+  "brand": "Valrom",
+  "anaf": {
+    "cui": 8529679,
+    "name": "VALROM INDUSTRIE SRL",
+    "address": "MUNICIPIUL BUCUREŞTI, SECTOR 6, B-DUL PRECIZIEI, NR.28",
+    "registrationNumber": "J1996004810406",
+    "phone": "0722666030",
+    "fax": "",
+    "postalCode": "62204",
+    "caenCode": "2221",
+    "iban": "",
+    "registrationState": "INREGISTRAT din data 07.06.1996",
+    "registrationDate": "1996-06-13",
+    "fiscalAuthority": "Direcţia Generală de Administrare a Marilor Contribuabili",
+    "ownershipForm": "PROPR.PRIVATA-CAPITAL PRIVAT AUTOHTON SI STRAIN",
+    "organizationForm": "PERSOANA JURIDICA",
+    "legalForm": "SOCIETATE COMERCIALĂ CU RĂSPUNDERE LIMITATĂ",
+    "vatRegistered": true,
+    "vatPeriods": [
+      {
+        "start": "1996-06-13",
+        "end": null,
+        "yearStart": "",
+        "message": ""
+      }
+    ],
+    "cashBasisVat": false,
+    "cashBasisVatStart": null,
+    "cashBasisVatEnd": null,
+    "inactive": false,
+    "inactiveSince": null,
+    "reactivatedSince": null,
+    "splitVat": false,
+    "eFacturaRegistered": true,
+    "headquartersAddress": {
+      "street": "Str. Preciziei",
+      "number": "28",
+      "locality": "Sector 6 Mun. Bucureşti",
+      "county": "MUNICIPIUL BUCUREŞTI",
+      "country": "",
+      "postalCode": "62204"
+    },
+    "fiscalAddress": {
+      "street": "",
+      "number": "",
+      "locality": "",
+      "county": "",
+      "country": "",
+      "postalCode": ""
+    },
+    "administrators": [],
+    "authorizedCaenCodes": [],
+    "onrcStatus": 0,
+    "onrcStatusLabel": "Funcțiune"
+  },
+  "peviitor": null,
+  "summary": {
+    "company": "VALROM INDUSTRIE SRL",
+    "cif": "8529679",
+    "active": true,
+    "inactiveSince": null,
+    "address": "MUNICIPIUL BUCUREŞTI, SECTOR 6, B-DUL PRECIZIEI, NR.28"
+  }
+}
