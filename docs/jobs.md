@@ -12,9 +12,9 @@
 | Careers | [https://www.valrom.ro/cariere/](https://www.valrom.ro/cariere/) |
 | Last Scraped | 2026-09-23 |
 
-## Current Job Listings (9)
+## Current Job Listings (17)
 
-_Generated: 2026-09-23T13:13:33.357773+00:00_
+_Generated: 2026-09-23T15:25:29.344058+00:00_
 
 ### Reprezentant Vanzari Valcea, Dolj, Gorj
 
@@ -77,4 +77,52 @@ _Generated: 2026-09-23T13:13:33.357773+00:00_
 - **URL:** [https://www.valrom.ro/joburi/operator-productie-fabrica-pantelimon/](https://www.valrom.ro/joburi/operator-productie-fabrica-pantelimon/)
 - **Work Mode:** on-site
 - **Location:** București
+- **Status:** scraped
+
+### OPERATOR LA PRELUCRAREA MASELOR PLASTICE
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3363540](https://mediere.anofm.ro/app/module/mediere/job/3363540)
+- **Location:** România
+- **Status:** scraped
+
+### ELECTRICIAN DE ÎNTRETINERE SI REPARATII
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3363525](https://mediere.anofm.ro/app/module/mediere/job/3363525)
+- **Location:** România
+- **Status:** scraped
+
+### LACATUS MECANIC
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3363520](https://mediere.anofm.ro/app/module/mediere/job/3363520)
+- **Location:** România
+- **Status:** scraped
+
+### SUDOR
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3363512](https://mediere.anofm.ro/app/module/mediere/job/3363512)
+- **Location:** România
+- **Status:** scraped
+
+### LACATUS MECANIC
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3363067](https://mediere.anofm.ro/app/module/mediere/job/3363067)
+- **Location:** România
+- **Status:** scraped
+
+### MECANIC UTILAJ
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3363063](https://mediere.anofm.ro/app/module/mediere/job/3363063)
+- **Location:** România
+- **Status:** scraped
+
+### REGLOR LA MASINI DE PRELUCRARE MASE PLASTICE
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3363047](https://mediere.anofm.ro/app/module/mediere/job/3363047)
+- **Location:** România
+- **Status:** scraped
+
+### ELECTRICIAN DE ÎNTRETINERE SI REPARATII
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3363022](https://mediere.anofm.ro/app/module/mediere/job/3363022)
+- **Location:** România
 - **Status:** scraped
