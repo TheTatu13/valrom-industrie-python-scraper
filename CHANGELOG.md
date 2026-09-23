@@ -1,5 +1,29 @@
 # Changelog
 
+## [0.3.0] - 2026-09-23
+
+### Added
+- `search_anofm()` in `scraper/main.py`: pulls supplementary postings for
+  this CIF from ANOFM (the state employment agency), same as the JS
+  template's `searchANOFM` — this Python port shipped without it since it
+  was first written, even though the README always documented both
+  variants as targeting "a Romanian company's own careers site + ANOFM".
+  These are additive only (never touch `ownJobUrlPrefix` stale-job
+  deletion, since they live under `mediere.anofm.ro`).
+- `_drop_dead_urls()`: GET-checks every job URL before upload and drops
+  the ones that don't resolve. `validate.py` only checked URL *shape*; a
+  URL-construction bug could previously reach peviitor undetected. Uses
+  `validate_by_content` (GET) rather than HEAD, since at least one real
+  careers site answers every HEAD request with a generic 404 regardless
+  of whether the resource exists.
+- `company upsert` payload now includes `scraperFile`.
+
+_Note: this work actually landed in commit 1918ff3, bundled under an
+unrelated message ("fix: retry+skip the live ANAF/SOLR integration
+tests...") because it was left staged when that fix was committed. The
+code and its tests (165 passing) were not touched or altered — this
+entry documents what actually shipped and when._
+
 ## [0.2.0] - 2026-09-23
 
 ### Fixed
