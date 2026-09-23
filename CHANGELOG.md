@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.2.0] - 2026-09-23
+
+### Fixed
+- `scrape.yml`: `Pre-scrape tests` now gets `GITHUB_TOKEN` (was hitting
+  GitHub's unauthenticated rate limit intermittently).
+- `autoheal` job: `gh` calls now pass `-R "${{ github.repository }}"`
+  (previously crashed — no `actions/checkout`, so no `.git` to infer the
+  repo from).
+- `tests/integration/test_company_real.py`: live ANAF/CUIScan and peViitor
+  Solr calls now retry (3 attempts) and `pytest.skip()` instead of failing
+  the build on transient upstream flakiness.
+
+### Changed
+- `scrape.yml` / `tests.yml` now call the Brewtality-3-16 template's
+  reusable workflows (`scrape-reusable.yml` / `tests-reusable.yml` @v1)
+  instead of carrying the logic locally — pulled in from template v0.2.0.
+
 ## [0.1.0] - 2026-09-10
 
 ### Added
