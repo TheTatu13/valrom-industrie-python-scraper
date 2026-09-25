@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, B-DUL PRECIZIEI, NR.28 |
 | Website | [https://www.valrom.ro](https://www.valrom.ro) |
 | Careers | [https://www.valrom.ro/cariere/](https://www.valrom.ro/cariere/) |
-| Last Scraped | 2026-09-24 |
+| Last Scraped | 2026-09-25 |
 
-## Current Job Listings (17)
+## Current Job Listings (22)
 
-_Generated: 2026-09-24T11:26:14.845348+00:00_
+_Generated: 2026-09-25T11:32:31.078259+00:00_
 
 ### Reprezentant Vanzari Valcea, Dolj, Gorj
 
@@ -79,50 +79,80 @@ _Generated: 2026-09-24T11:26:14.845348+00:00_
 - **Location:** București
 - **Status:** scraped
 
-### OPERATOR LA PRELUCRAREA MASELOR PLASTICE
+### SEF ATELIER
 
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3363540](https://mediere.anofm.ro/app/module/mediere/job/3363540)
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397380](https://mediere.anofm.ro/app/module/mediere/job/3397380)
 - **Location:** România
 - **Status:** scraped
 
-### ELECTRICIAN DE ÎNTRETINERE SI REPARATII
+### INSTALATOR INSTALATII TEHNICO-SANITARE SI DE GAZE
 
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3363525](https://mediere.anofm.ro/app/module/mediere/job/3363525)
-- **Location:** România
-- **Status:** scraped
-
-### LACATUS MECANIC
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3363520](https://mediere.anofm.ro/app/module/mediere/job/3363520)
-- **Location:** România
-- **Status:** scraped
-
-### SUDOR
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3363512](https://mediere.anofm.ro/app/module/mediere/job/3363512)
-- **Location:** România
-- **Status:** scraped
-
-### LACATUS MECANIC
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3363067](https://mediere.anofm.ro/app/module/mediere/job/3363067)
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397372](https://mediere.anofm.ro/app/module/mediere/job/3397372)
 - **Location:** România
 - **Status:** scraped
 
 ### MECANIC UTILAJ
 
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3363063](https://mediere.anofm.ro/app/module/mediere/job/3363063)
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397360](https://mediere.anofm.ro/app/module/mediere/job/3397360)
 - **Location:** România
 - **Status:** scraped
 
-### REGLOR LA MASINI DE PRELUCRARE MASE PLASTICE
+### STIVUITORIST
 
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3363047](https://mediere.anofm.ro/app/module/mediere/job/3363047)
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397353](https://mediere.anofm.ro/app/module/mediere/job/3397353)
+- **Location:** România
+- **Status:** scraped
+
+### STRUNGAR UNIVERSAL
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397349](https://mediere.anofm.ro/app/module/mediere/job/3397349)
 - **Location:** România
 - **Status:** scraped
 
 ### ELECTRICIAN DE ÎNTRETINERE SI REPARATII
 
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3363022](https://mediere.anofm.ro/app/module/mediere/job/3363022)
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397329](https://mediere.anofm.ro/app/module/mediere/job/3397329)
+- **Location:** România
+- **Status:** scraped
+
+### LACATUS MECANIC
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397327](https://mediere.anofm.ro/app/module/mediere/job/3397327)
+- **Location:** România
+- **Status:** scraped
+
+### ELECTRICIAN DE ÎNTRETINERE SI REPARATII
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397325](https://mediere.anofm.ro/app/module/mediere/job/3397325)
+- **Location:** România
+- **Status:** scraped
+
+### SUDOR
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397321](https://mediere.anofm.ro/app/module/mediere/job/3397321)
+- **Location:** România
+- **Status:** scraped
+
+### LACATUS MECANIC
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397317](https://mediere.anofm.ro/app/module/mediere/job/3397317)
+- **Location:** România
+- **Status:** scraped
+
+### MECANIC UTILAJ
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397314](https://mediere.anofm.ro/app/module/mediere/job/3397314)
+- **Location:** România
+- **Status:** scraped
+
+### REGLOR LA MASINI DE PRELUCRARE MASE PLASTICE
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397312](https://mediere.anofm.ro/app/module/mediere/job/3397312)
+- **Location:** România
+- **Status:** scraped
+
+### REGLOR LA MASINI DE PRELUCRARE MASE PLASTICE
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397311](https://mediere.anofm.ro/app/module/mediere/job/3397311)
 - **Location:** România
 - **Status:** scraped

@@ -1,5 +1,5 @@
 {
-  "validatedAt": "2026-09-24T11:26:00.051465+00:00",
+  "validatedAt": "2026-09-25T11:31:58.217504+00:00",
   "source": "ANAF",
   "brand": "Valrom",
   "anaf": {
@@ -56,7 +56,28 @@
     "onrcStatus": 0,
     "onrcStatusLabel": "Funcțiune"
   },
-  "peviitor": null,
+  "peviitor": {
+    "id": "8529679",
+    "company": "VALROM INDUSTRIE SRL",
+    "brand": "VALROM INDUSTRIE SRL",
+    "status": "activ",
+    "location": [
+      "Bucureşti Sectorul 6"
+    ],
+    "lastScraped": "2026-08-07",
+    "scraperFile": "inviitor-ro-nodejs-scraper",
+    "address": [
+      "Bucureşti Sectorul 6, Bucureşti"
+    ],
+    "anafData": [
+      "{\"cif\":8529679,\"cui\":8529679,\"denumire\":\"VALROM INDUSTRIE SRL\",\"company\":\"VALROM INDUSTRIE SRL\",\"brand\":\"VALROM INDUSTRIE SRL\",\"statusImpozit\":\"activ\",\"adresa\":\"Bucureşti Sectorul 6, Bucureşti\",\"localitate\":\"Bucureşti Sectorul 6\",\"website\":\"\"}"
+    ],
+    "existingJobsCount": [
+      0
+    ],
+    "_version_": 1872862856951627776,
+    "_root_": "8529679"
+  },
   "summary": {
     "company": "VALROM INDUSTRIE SRL",
     "cif": "8529679",
