@@ -10,11 +10,11 @@
 | Location | MUNICIPIUL BUCUREŞTI, SECTOR 6, B-DUL PRECIZIEI, NR.28 |
 | Website | [https://www.valrom.ro](https://www.valrom.ro) |
 | Careers | [https://www.valrom.ro/cariere/](https://www.valrom.ro/cariere/) |
-| Last Scraped | 2026-09-30 |
+| Last Scraped | 2026-10-01 |
 
-## Current Job Listings (25)
+## Current Job Listings (21)
 
-_Generated: 2026-09-30T12:15:06.354840+00:00_
+_Generated: 2026-10-01T12:49:07.824822+00:00_
 
 ### Reprezentant Vanzari Valcea, Dolj, Gorj
 
@@ -77,24 +77,6 @@ _Generated: 2026-09-30T12:15:06.354840+00:00_
 - **URL:** [https://www.valrom.ro/joburi/operator-productie-fabrica-pantelimon/](https://www.valrom.ro/joburi/operator-productie-fabrica-pantelimon/)
 - **Work Mode:** on-site
 - **Location:** București
-- **Status:** scraped
-
-### TEHNICIAN MASINI SI UTILAJE
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3402061](https://mediere.anofm.ro/app/module/mediere/job/3402061)
-- **Location:** România
-- **Status:** scraped
-
-### OPERATOR LA PRELUCRAREA MASELOR PLASTICE
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3399881](https://mediere.anofm.ro/app/module/mediere/job/3399881)
-- **Location:** România
-- **Status:** scraped
-
-### AMBALATOR MANUAL
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3399878](https://mediere.anofm.ro/app/module/mediere/job/3399878)
-- **Location:** România
 - **Status:** scraped
 
 ### SEF ATELIER
@@ -160,12 +142,6 @@ _Generated: 2026-09-30T12:15:06.354840+00:00_
 ### MECANIC UTILAJ
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397314](https://mediere.anofm.ro/app/module/mediere/job/3397314)
-- **Location:** România
-- **Status:** scraped
-
-### REGLOR LA MASINI DE PRELUCRARE MASE PLASTICE
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397312](https://mediere.anofm.ro/app/module/mediere/job/3397312)
 - **Location:** România
 - **Status:** scraped
 
