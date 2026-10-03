@@ -12,6 +12,6 @@
   "career": [
     "https://www.valrom.ro/cariere/"
   ],
-  "scraperFile": "https://github.com/TheTatu13/valrom-industrie-python-scraper/actions/workflows/scrape.yml",
+  "scraperFile": "https://github.com/peviitor-scrapers/valrom-industrie-python-scraper/actions/workflows/scrape.yml",
   "ownJobUrlPrefix": "https://www.valrom.ro/joburi/"
 }

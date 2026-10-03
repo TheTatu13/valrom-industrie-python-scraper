@@ -56,7 +56,7 @@ easy-to-skip steps like these.
 
 - [ ] If the fix belongs in `scrape.yml`/`tests.yml` logic and this repo
       calls a `*-reusable.yml` from Brewtality-3-16 (check for `uses:
-      TheTatu13/Brewtality-3-16/...` in the workflow file) — the fix
+      peviitor-scrapers/Brewtality-3-16/...` in the workflow file) — the fix
       probably belongs in the **template's** reusable workflow, not a
       one-off patch here. A patch here only fixes this repo; a fix in the
       template reaches every derived scraper on its next scheduled run.

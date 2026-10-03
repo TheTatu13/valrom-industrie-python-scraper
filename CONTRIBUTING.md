@@ -11,7 +11,7 @@ pytest -q
 
 ## Reporting Issues
 
-Open a [GitHub Issue](https://github.com/TheTatu13/valrom-industrie-python-scraper/issues) with:
+Open a [GitHub Issue](https://github.com/peviitor-scrapers/valrom-industrie-python-scraper/issues) with:
 - Clear description of the problem
 - Steps to reproduce
 - Expected vs actual behavior
